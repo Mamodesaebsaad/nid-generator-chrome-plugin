@@ -5,7 +5,7 @@ import Interface from "./Interface";
 
 function Popup(){
     return(
-        <div style={{ width: '250px' }}>
+        <div style={{ width: '290px', height: '450px' }}>
             <Interface />
         </div>
     );
