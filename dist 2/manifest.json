@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Dummy NID Generator ",
+  "version": "1.0",
+  "description": "Dummy NID Generator",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "dots.png",
+    "32": "dots.png",
+    "48": "dots.png",
+    "128": "dots.png"
+  }
+}
